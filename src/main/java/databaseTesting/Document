@@ -1,0 +1,21 @@
+1.For database testing below are the maven dependencies which needs to be added to the POM.
+
+i. MySQL Dependency.
+======================
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.15</version>
+</dependency>
+
+
+
+2.For database testing below are required information which will help in creating a communication channel.
+ i.   driver for database (jdbc driver).
+ ii.  url 
+ iii. username
+ iv.  password 
+ 
+ 
+
